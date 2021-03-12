@@ -4,6 +4,9 @@ Some description!
 
 ## Subheader
 
+<<<<<<< HEAD
+Some sample info.
+=======
 Some sample info.
 
 ## Local Development
